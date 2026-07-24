@@ -13,7 +13,7 @@ jobs:
 
       # TODO: Node.js/Python 등 런타임 확정 후 dependency 설치 스텝 작성
       - name: Install dependencies (placeholder)
-        run: echo "TODO: install backend dependencies"
+        run: echo "TODO - install backend dependencies"
 
       - name: Run tests (placeholder)
         run: echo "placeholder test for backend"
